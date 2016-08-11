@@ -16,7 +16,7 @@ You can fork or clone the repo to your local machine or choose to work on it onl
 
 For more information on how to use github clone features, kindly check out the <a href="https://help.github.com/articles/cloning-a-repository/">documentation here</a>
 
-## How to Clone the Repo
+## How to Submit your Exercise (Create a pull Request)
 After your're done with the exercise, kindly remember to create a pull request.
 * On GitHub, navigate to the main page of the repository.
 * In the "Branch" menu, choose the branch that contains your commits.
@@ -26,6 +26,6 @@ After your're done with the exercise, kindly remember to create a pull request.
 * Type a title and description for your pull request. Name and Email will suffice. 
 * Click Create pull request.
 
-After your pull request has been reviewed, we shall get back to you with the results.
+After your pull request has been reviewed, we shall get back to you with the results. If you have any challenges with this, please get in touch with any of our team members.
 
 Have fun and Good Luck!
