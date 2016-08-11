@@ -1,6 +1,6 @@
 {
-  "name": "Tech-challenge",
-  "tagline": "GBC Tech Challenge",
-  "body": "### Welcome to GBC Tech Challenge.\r\nSimple HTML/CSS page that is intentionally broken. The goal is to identify and fix the code. This is a real-world situation that you are likely to face in the tech industry. Be mindful that there are definite code errors and mixed syntax.\r\n\r\nThe second part of the exercise involves creating a matching \"Contact\" page with a form that users can use to send a quick message.\r\n\r\n### Support or Contact\r\nHaving trouble with Exercise? Check out our [documentation intro](https://github.com/gbc-dev/Tech-Challenge) or contact one of our team members and we’ll help you sort it out.\r\n",
+  "name": "GBC Tech Challenge",
+  "tagline": "We hire Character and build Skills",
+  "body": "### Welcome to GBC Tech Challenge.\r\nThis is a simple 2-part exercise that will help us gauge your capabilities.\r\n\r\nThe first part is a HTML/CSS page that is intentionally broken. The goal is to identify and fix the code. This is a real-world situation that you are likely to face in the tech industry. Be mindful that there are definite code errors and mixed syntax.\r\n\r\nThe second part of the exercise involves creating a matching \"Contact\" page with a form that users can use to send a quick message.\r\n\r\n### Support or Contact\r\nHaving trouble with Exercise? Check out our [documentation intro](https://github.com/gbc-dev/Tech-Challenge) or contact one of our team members and we’ll help you sort it out.\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
