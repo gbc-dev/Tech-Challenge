@@ -14,7 +14,7 @@ You can fork or clone the repo to your local machine or choose to work on it onl
 * -> git clone https://github.com/gbc-dev/Tech-Challenge
 * Press Enter and Your local clone will be created.
 
-For more information on how to use github clone features, kindly check out the <a href="https://help.github.com/articles/cloning-a-repository/">documentation here</a>
+For more information on how to use github clone features, kindly check out the <a href="https://help.github.com/articles/cloning-a-repository/">documentation here</a> or get in touch with any of our team members for assistance.
 
 ## How to Submit your Exercise (Create a pull Request)
 After your're done with the exercise, kindly remember to create a pull request.
@@ -26,6 +26,6 @@ After your're done with the exercise, kindly remember to create a pull request.
 * Type a title and description for your pull request. Name and Email will suffice. 
 * Click Create pull request.
 
-After your pull request has been reviewed, we shall get back to you with the results. If you have any challenges with this, please get in touch with any of our team members.
+After your pull request has been reviewed, we shall get back to you with the results. If you have any challenges with this, you can check the <a href="https://help.github.com/articles/using-pull-requests/" >documentation</a> or get in touch with any of our team members.
 
 Have fun and Good Luck!
